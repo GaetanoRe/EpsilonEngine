@@ -1,3 +1,10 @@
+# Epsilon Engine - This is a fork of the Godot Engine version 4.6
+
+## For personal use.
+This engine is to be used by me for personal use. I am modifying it to add some features and make some fixes that I see fit. It is all for learning purposes for now. 
+
+Below is the information for Godot Engine.
+
 # Godot Engine
 
 <p align="center">
